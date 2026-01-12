@@ -2,8 +2,7 @@
 
 **`Data Scientist`**
 
-Me chamo Vivian Lyvia, tenho 20 anos e sou do interior dew São Paulo. Atualmente, estou cursando Engenharia da Computação. Sou apaixonada por tecnologia e motivada a aprender continuamente, com foco em
-desenvolver soluções inteligentes e criativas que unem ciência e inovação.
+Me chamo Vivian Lyvia, tenho 20 anos e sou do interior de São Paulo. Atualmente, estou cursando Engenharia da Computação. Sou apaixonada por tecnologia e motivada a aprender continuamente, com foco em desenvolver soluções inteligentes e criativas que unem ciência e inovação.
 
 <div> 
   <a href="https://instagram.com/vivian_lyvia" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
